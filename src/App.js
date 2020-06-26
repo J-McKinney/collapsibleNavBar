@@ -14,7 +14,9 @@ const brand = { name: "Your Logo Here", to: "/" };
 function App() {
   return (
     <div className="App">
+      {/**/}
       <NavBar brand={brand} links={navlinks} />
+      {/**/}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
