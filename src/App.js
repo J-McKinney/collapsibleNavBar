@@ -9,7 +9,7 @@ const navlinks = [
   { name: "Contact", to: "#/contact" },
 ];
 
-const brand = { name: "peekaboo", to: "/" };
+const brand = { name: "Your Logo Here", to: "/" };
 
 function App() {
   return (
